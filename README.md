@@ -160,11 +160,31 @@ from keras.models import load_model
 model = load_model("*_model_yyyymmdd.h5")
 ```
 
-5. Results
+## Results ()
 
-5.1 CNN structure
+These plots were in my BPS2020 poster. 
+
+1. CNN structure
 
 ![CNN structure](./CNN_python/Cnnet.png)
+
+2. Training History and Performances
+
+![CNN training and performances](./CNN_python/Training.png)
+
+3. Validation on Sythesized data
+
+![Validation on Synthesized data](./CNN_python/syn.png)
+
+4. On experimental data
+
+![Exp](./CNN_python/mg.png)
+
+5. First CNN layer output (feature importance/information)
+
+![information flow](./CNN_python/if.png)
+
+
 
 ## Notes
 
