@@ -160,6 +160,12 @@ from keras.models import load_model
 model = load_model("*_model_yyyymmdd.h5")
 ```
 
+5. Results
+
+5.1 CNN structure
+
+![CNN structure](./CNN_python/Cnnet.png)
+
 ## Notes
 
 1. Please check out the documentation of keras for more detailed information
