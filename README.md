@@ -160,7 +160,7 @@ from keras.models import load_model
 model = load_model("*_model_yyyymmdd.h5")
 ```
 
-## Results ()
+## Results 
 
 These plots were in my BPS2020 poster. 
 
