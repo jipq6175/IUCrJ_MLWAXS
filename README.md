@@ -3,7 +3,8 @@ Machine Learning Approach for Bridging Solution X-ray Scattering Data and Molecu
 
 ## Reference
 
-This ML approach was submitted to IUCrJ and is under review.
+This ML approach was published in IUCrJ: 
+[Machine learning deciphers structural features of RNA duplexes measured with solution X-ray scattering](https://doi.org/10.1107/S2052252520008830).
 
 
 ## The Jupyter Notebook
@@ -45,7 +46,7 @@ Please refer to `WAXS-XGBoost-Radius-Training.ipynb` in this repo for the notebo
 ---
 # CNNWAXS (Python)
 Convolutional Neural Network (CNN) Approach for Solution X-ray Scattering Data
-
+[Convolutional Neural Networks Bridge Molecular Models and Solution X-ray Scattering Experiments](https://doi.org/10.1016/j.bpj.2019.11.1706)
 
 ## Prerequisite
 
